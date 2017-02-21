@@ -1,4 +1,4 @@
-from find_apple_tv import *
+from device_search import *
 """
 gets the login info you need
 """

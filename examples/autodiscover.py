@@ -5,7 +5,7 @@ import pyatv
 import asyncio
 #NEW MODULE
 #Make sure to pip install dnslib
-from find_apple_tv import device_search
+from device_search import device_search
 
 
 # Method that is dispatched by the asyncio event loop
