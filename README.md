@@ -1,6 +1,7 @@
 # py_apple_tv_discover
 
-Just posted this to show an alternative device discovery method for pyatv (https://github.com/postlund/pyatv).
+Just posted this to show an alternative autodevice discovery method for pyatv (https://github.com/postlund/pyatv). IF YOU WANT TO USE THE ACTUAL PYATV THAT IS UP-TO-DATE AND BEING WORKED ON GO TO https://github.com/postlund/pyatv.
+
 The two examples should show you how it works:
   1. autodiscover.py
     - This just uses the new alternative module (device search) when zeroconf fails.
